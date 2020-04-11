@@ -12,7 +12,7 @@ void DemoClass::print()
 {
 for(int i=0; i<10; ++i)
 {
-	std::cout << "Welcome to GIT and Jenkins..." << std::endl;
+	std::cout << "Welcome to learn GIT and Jenkins..." << std::endl;
 }
 }
 
